@@ -1,0 +1,32 @@
+# compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dSYM/
+
+# build folders
+build/
+bin/
+Debug/
+Release/
+cmake-build-*/
+
+# editors and IDEs
+.vscode/
+.idea/
+.vs/
+*.code-workspace
+
+# Dev-C++ and Code::Blocks
+*.dev
+*.layout
+*.depend
+*.cbp
+
+# OS files
+.DS_Store
+Thumbs.db
